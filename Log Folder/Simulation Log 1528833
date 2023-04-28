@@ -1,0 +1,248 @@
+Simulation parameters
+Simulation time: 200
+Num. of clients: 1000
+Num. of servers: 20
+Arrival interval: [ 10, 100 ]
+Service time range: [ 3, 9 ]
+Clients: (305, 10, 3), (421, 10, 5), (442, 10, 6), (453, 10, 7), (487, 10, 8), (675, 10, 8), (827, 10, 3), (878, 10, 4), (964, 10, 5), (130, 11, 8),...
+
+
+Time 0
+Waiting clients: (305, 10, 3), (421, 10, 5), (442, 10, 6), (453, 10, 7), (487, 10, 8), (675, 10, 8), (827, 10, 3), (878, 10, 4), (964, 10, 5), (130, 11, 8),...
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Queue 10: 
+Queue 11: 
+Queue 12: 
+Queue 13: 
+Queue 14: 
+Queue 15: 
+Queue 16: 
+Queue 17: 
+Queue 18: 
+Queue 19: 
+Queue 20: 
+
+Time 1
+Waiting clients: (305, 10, 3), (421, 10, 5), (442, 10, 6), (453, 10, 7), (487, 10, 8), (675, 10, 8), (827, 10, 3), (878, 10, 4), (964, 10, 5), (130, 11, 8),...
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Queue 10: 
+Queue 11: 
+Queue 12: 
+Queue 13: 
+Queue 14: 
+Queue 15: 
+Queue 16: 
+Queue 17: 
+Queue 18: 
+Queue 19: 
+Queue 20: 
+
+Time 2
+Waiting clients: (305, 10, 3), (421, 10, 5), (442, 10, 6), (453, 10, 7), (487, 10, 8), (675, 10, 8), (827, 10, 3), (878, 10, 4), (964, 10, 5), (130, 11, 8),...
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Queue 10: 
+Queue 11: 
+Queue 12: 
+Queue 13: 
+Queue 14: 
+Queue 15: 
+Queue 16: 
+Queue 17: 
+Queue 18: 
+Queue 19: 
+Queue 20: 
+
+Time 3
+Waiting clients: (305, 10, 3), (421, 10, 5), (442, 10, 6), (453, 10, 7), (487, 10, 8), (675, 10, 8), (827, 10, 3), (878, 10, 4), (964, 10, 5), (130, 11, 8),...
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Queue 10: 
+Queue 11: 
+Queue 12: 
+Queue 13: 
+Queue 14: 
+Queue 15: 
+Queue 16: 
+Queue 17: 
+Queue 18: 
+Queue 19: 
+Queue 20: 
+
+Time 4
+Waiting clients: (305, 10, 3), (421, 10, 5), (442, 10, 6), (453, 10, 7), (487, 10, 8), (675, 10, 8), (827, 10, 3), (878, 10, 4), (964, 10, 5), (130, 11, 8),...
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Queue 10: 
+Queue 11: 
+Queue 12: 
+Queue 13: 
+Queue 14: 
+Queue 15: 
+Queue 16: 
+Queue 17: 
+Queue 18: 
+Queue 19: 
+Queue 20: 
+
+Time 5
+Waiting clients: (305, 10, 3), (421, 10, 5), (442, 10, 6), (453, 10, 7), (487, 10, 8), (675, 10, 8), (827, 10, 3), (878, 10, 4), (964, 10, 5), (130, 11, 8),...
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Queue 10: 
+Queue 11: 
+Queue 12: 
+Queue 13: 
+Queue 14: 
+Queue 15: 
+Queue 16: 
+Queue 17: 
+Queue 18: 
+Queue 19: 
+Queue 20: 
+
+Time 6
+Waiting clients: (305, 10, 3), (421, 10, 5), (442, 10, 6), (453, 10, 7), (487, 10, 8), (675, 10, 8), (827, 10, 3), (878, 10, 4), (964, 10, 5), (130, 11, 8),...
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Queue 10: 
+Queue 11: 
+Queue 12: 
+Queue 13: 
+Queue 14: 
+Queue 15: 
+Queue 16: 
+Queue 17: 
+Queue 18: 
+Queue 19: 
+Queue 20: 
+
+Time 7
+Waiting clients: (305, 10, 3), (421, 10, 5), (442, 10, 6), (453, 10, 7), (487, 10, 8), (675, 10, 8), (827, 10, 3), (878, 10, 4), (964, 10, 5), (130, 11, 8),...
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Queue 10: 
+Queue 11: 
+Queue 12: 
+Queue 13: 
+Queue 14: 
+Queue 15: 
+Queue 16: 
+Queue 17: 
+Queue 18: 
+Queue 19: 
+Queue 20: 
+
+Time 8
+Waiting clients: (305, 10, 3), (421, 10, 5), (442, 10, 6), (453, 10, 7), (487, 10, 8), (675, 10, 8), (827, 10, 3), (878, 10, 4), (964, 10, 5), (130, 11, 8),...
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Queue 10: 
+Queue 11: 
+Queue 12: 
+Queue 13: 
+Queue 14: 
+Queue 15: 
+Queue 16: 
+Queue 17: 
+Queue 18: 
+Queue 19: 
+Queue 20: 
+
+Time 9
+Waiting clients: (305, 10, 3), (421, 10, 5), (442, 10, 6), (453, 10, 7), (487, 10, 8), (675, 10, 8), (827, 10, 3), (878, 10, 4), (964, 10, 5), (130, 11, 8),...
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Queue 10: 
+Queue 11: 
+Queue 12: 
+Queue 13: 
+Queue 14: 
+Queue 15: 
+Queue 16: 
+Queue 17: 
+Queue 18: 
+Queue 19: 
+Queue 20: 
